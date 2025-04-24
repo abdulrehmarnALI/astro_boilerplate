@@ -20,3 +20,9 @@ Some highlights include:
 Astro was designed for building content-rich websites. If we have content to show, it needs to reach our readers quickly.
 
 By contrast, most modern frameworks were designed for building _web applications_. These frameworks excel at building more complex, application-like experiences i the browser: logged-in admin dashboards, inboxes, social networks, to-do lists, and even applications like Figma. 
+
+### Server-first
+Astro leverages server rendering over client-side rendering in the browser as much as possible. This is the same approach that traditional server-side frameworks - like PHP, WordPress, Ruby on Rails - have been using for years.
+
+This approach is contrast to modern JS frameworks like Next.js, SveltKit, and Nuxt. These frameworks are dubbed as Single-Page Apps (SPAs) whilst Astro takes a Multi-Page App (MPA) approach.
+
